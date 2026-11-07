@@ -1,0 +1,6 @@
+{
+  "name": "DC City",
+  "description": "DC City Dushanbe mobile banking application with multi-language onboarding, phone authentication, and live interactive Telegram admin panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,32 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="28dp"
+    android:height="20dp"
+    android:viewportWidth="28"
+    android:viewportHeight="20">
+    <!-- Red top stripe -->
+    <path
+        android:fillColor="#D52B1E"
+        android:pathData="M0,0h28v6h-28z" />
+    <!-- White middle stripe -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M0,6h28v8h-28z" />
+    <!-- Green bottom stripe -->
+    <path
+        android:fillColor="#009933"
+        android:pathData="M0,14h28v6h-28z" />
+    <!-- Gold Crown in center of white stripe -->
+    <path
+        android:fillColor="#F6B400"
+        android:pathData="M11,11.5h6l-0.8,-2.2l-1.5,1.2l-0.7,-2l-0.7,2l-1.5,-1.2z" />
+    <!-- 7 stars in an arc above crown -->
+    <path
+        android:fillColor="#F6B400"
+        android:pathData="M14,7.2m-0.4,0a0.4,0.4 0,1 1,0.8 0a0.4,0.4 0,1 1,-0.8 0
+            M12.6,7.5m-0.35,0a0.35,0.35 0,1 1,0.7 0a0.35,0.35 0,1 1,-0.7 0
+            M15.4,7.5m-0.35,0a0.35,0.35 0,1 1,0.7 0a0.35,0.35 0,1 1,-0.7 0
+            M11.4,8.2m-0.35,0a0.35,0.35 0,1 1,0.7 0a0.35,0.35 0,1 1,-0.7 0
+            M16.6,8.2m-0.35,0a0.35,0.35 0,1 1,0.7 0a0.35,0.35 0,1 1,-0.7 0
+            M10.5,9.2m-0.3,0a0.3,0.3 0,1 1,0.6 0a0.3,0.3 0,1 1,-0.6 0
+            M17.5,9.2m-0.3,0a0.3,0.3 0,1 1,0.6 0a0.3,0.3 0,1 1,-0.6 0" />
+</vector>
